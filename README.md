@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @profwtelles
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning many lanugages
+- 🌱 I’m currently learning many languages
 - 💞️ I’m looking to collaborate on Delphi projects
 - 📫 How to reach me ...
 
